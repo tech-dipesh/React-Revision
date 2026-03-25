@@ -1,0 +1,1 @@
+- The rule so fthe jsx is must close every any html element.
