@@ -1,0 +1,23 @@
+div#render {
+    gap: 130px;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+#head {
+    border: 1px solid #00f;
+    flex-wrap: wrap;
+    gap: 25px;
+    max-width: 200px;
+    padding: 25px;
+    display: inline-flex;
+    position: relative;
+}
+
+
+
+img{
+  max-height: 150px;
+}
